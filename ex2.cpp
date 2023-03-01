@@ -9,7 +9,7 @@ int main()
     int x = 9;
     //before swapping
     cout << "value of x before calling fun: " << x << endl;
-    fun(&x);
+    fun(&x);    //calling  a function
  
     //after swapping
     cout << "value of x after calling fun: " << x << endl;
