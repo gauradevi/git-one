@@ -12,7 +12,7 @@ void swap(int* x, int *y){
 
 int main(){
 
-     int a=5, b =5;
+     int a=10, b =5;
      cout<<"Value of a and b before swapping"<<endl;
      
      swap(&a, &b);
